@@ -1,38 +1,98 @@
-.App {
-  text-align: center;
+.nav-link:active{
+  color:darkorange !important;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.nav-link:hover{
+  color:darkorange !important;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.carousel-inner{
+  height: 100vh ;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.carousel-item{
+  height: 100% !important;
+}
+.carousel-image{
+  width:100% !important;
+  height:100% !important;
+  object-fit:cover !important ;
+}
+.carousel-caption{
+  width: 100%;
+  height:100vh;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  right:0 !important;
+  left:0 !important;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.carousel-caption-contact{
+  text-align: left !important;
 }
 
-.App-link {
-  color: #61dafb;
+.hero-btn-div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap:1em;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.hero-btn-div-contact{
+  justify-content:flex-start;
+}
+.hero-cta{
+  display: inline-block;
+  padding:.5em 1em;
+  text-decoration: none;
+  background-color: darkorange;
+  color:white;
+}
+.hero-cta:hover{
+  background-color: black;
+}
+.carousel-title{
+  font-size: 2rem !important;
+}
+.carousel-desc{
+  font-size: 1rem !important;
+}
+.about-title,.project-title{
+  position: relative;
+  margin-bottom: 2em;
+}
+.about-title::after,
+.project-title::after{
+  position: absolute;
+  content: " ";
+  bottom: -.1em;
+  left:50%;
+  width: 3rem;
+  transform: translateX(-50%);
+  background-color: darkorange;
+  height:.1em;
+}
+.about-sub-title,
+.project-title,
+.about-title{
+  text-transform: uppercase;
+}
+.about-sub-title:hover{
+  color:darkorange;
+}
+.project-details{
+  background-color:rgba(255,140,0,.5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.project:hover .project-details{
+  display:  flex !important;
+}
+@media screen and (min-width:768px){
+  .carousel-title{
+    font-size: 3rem !important;
   }
-  to {
-    transform: rotate(360deg);
+  .carousel-desc{
+    font-size: 1.5rem !important;
   }
 }
