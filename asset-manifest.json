@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/edifice_website/static/css/main.fee0a022.css",
+    "main.js": "/edifice_website/static/js/main.be824620.js",
+    "static/js/787.f34c6ae4.chunk.js": "/edifice_website/static/js/787.f34c6ae4.chunk.js",
+    "static/media/project1.jpg": "/edifice_website/static/media/project1.c29c0b66dc32bc2e64eb.jpg",
+    "static/media/relaible_contruction.jpg": "/edifice_website/static/media/relaible_contruction.ed5bfbf23449054ad1ca.jpg",
+    "static/media/good_work.jpg": "/edifice_website/static/media/good_work.eb8921fdcc0a01148f35.jpg",
+    "static/media/project-4.jpg": "/edifice_website/static/media/project-4.ea3f1428b95aa8bc7a4b.jpg",
+    "static/media/project-6.jpg": "/edifice_website/static/media/project-6.c4e58b6535211596844e.jpg",
+    "static/media/project-3.jpg": "/edifice_website/static/media/project-3.52b26c806f81564616ca.jpg",
+    "static/media/project-5.jpg": "/edifice_website/static/media/project-5.8c6cc1bbfac737b08391.jpg",
+    "static/media/project-2.jpg": "/edifice_website/static/media/project-2.6c839afaa11854a914e2.jpg",
+    "static/media/good_work_small.jpg": "/edifice_website/static/media/good_work_small.7e39f64b3768f97474d9.jpg",
+    "static/media/relaible_contruction_small.jpg": "/edifice_website/static/media/relaible_contruction_small.20a78e3f0142d9971fb8.jpg",
+    "static/media/engineeing_professionals.jpg": "/edifice_website/static/media/engineeing_professionals.e3eb8883d813cc2f1c9a.jpg",
+    "static/media/engineeing_professionals_small.jpg": "/edifice_website/static/media/engineeing_professionals_small.df2699b3ecd73028e239.jpg",
+    "static/media/about.jpg": "/edifice_website/static/media/about.38d4fe777477dae570b8.jpg",
+    "static/media/team.svg": "/edifice_website/static/media/team.a77d13e111969fa42d58d5f0eb05ffc8.svg",
+    "static/media/solution.svg": "/edifice_website/static/media/solution.e23c7af8125f2a4eadffd0cbb889fd97.svg",
+    "index.html": "/edifice_website/index.html",
+    "static/media/approach.svg": "/edifice_website/static/media/approach.facfe49ed346bad5c5c99895b4d1f789.svg",
+    "main.fee0a022.css.map": "/edifice_website/static/css/main.fee0a022.css.map",
+    "main.be824620.js.map": "/edifice_website/static/js/main.be824620.js.map",
+    "787.f34c6ae4.chunk.js.map": "/edifice_website/static/js/787.f34c6ae4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee0a022.css",
+    "static/js/main.be824620.js"
+  ]
+}
